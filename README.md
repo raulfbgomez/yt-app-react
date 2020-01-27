@@ -10,6 +10,7 @@ git clone https://github.com/raulfbgomez/yt-app-react.git
 ## uso
 
 Instala las dependencias:
+
 `
 npm install
 `
@@ -21,6 +22,7 @@ npm run dev
 `
 
 Realiza el buil de la aplicacion:
+
 `
 npm run build
 `
